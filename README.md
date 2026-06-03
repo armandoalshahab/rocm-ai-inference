@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/avatar.jpg" alt="Armando Al Shahab" width="150" height="150" style="border-radius:50%">
+</div>
+
 # ROCm AI Inference Engine 🚀
 
 **High-performance AI inference pipeline optimized for AMD Instinct GPUs with ROCm support**
