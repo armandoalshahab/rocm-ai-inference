@@ -262,9 +262,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: Armando Al Shahab
+- **Author**: armandoalshahab
 - **Email**: armandoinzaghi@gmail.com
-- **Twitter**: @yourhandle
+- **Twitter**: @armandomarais
 - **GitHub**: [@armandoalshahab](https://github.com/armandoalshahab)
 
 ---
