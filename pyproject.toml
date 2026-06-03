@@ -10,7 +10,7 @@ readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.9"
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "Armando Al Shahab", email = "armandoinzaghi@gmail.com"},
 ]
 classifiers = [
     "Development Status :: 4 - Beta",
@@ -55,10 +55,10 @@ docs = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/rocm-ai-inference"
-Documentation = "https://github.com/YOUR_USERNAME/rocm-ai-inference#readme"
-Repository = "https://github.com/YOUR_USERNAME/rocm-ai-inference"
-Issues = "https://github.com/YOUR_USERNAME/rocm-ai-inference/issues"
+Homepage = "https://github.com/armandoalshahab/rocm-ai-inference"
+Documentation = "https://github.com/armandoalshahab/rocm-ai-inference#readme"
+Repository = "https://github.com/armandoalshahab/rocm-ai-inference"
+Issues = "https://github.com/armandoalshahab/rocm-ai-inference/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]

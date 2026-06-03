@@ -2,7 +2,7 @@
 
 **High-performance AI inference pipeline optimized for AMD Instinct GPUs with ROCm support**
 
-[![CI](https://github.com/YOUR_USERNAME/rocm-ai-inference/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/rocm-ai-inference/actions/workflows/ci.yml)
+[![CI](https://github.com/armandoalshahab/rocm-ai-inference/actions/workflows/ci.yml/badge.svg)](https://github.com/armandoalshahab/rocm-ai-inference/actions/workflows/ci.yml)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ROCm 6.0+](https://img.shields.io/badge/ROCm-6.0+-red.svg)](https://rocm.docs.amd.com/)
@@ -62,7 +62,7 @@ ROCm AI Inference Engine is a production-ready inference pipeline that leverages
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/rocm-ai-inference.git
+git clone https://github.com/armandoalshahab/rocm-ai-inference.git
 cd rocm-ai-inference
 
 # Create virtual environment
@@ -262,10 +262,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
+- **Author**: Armando Al Shahab
+- **Email**: armandoinzaghi@gmail.com
 - **Twitter**: @yourhandle
-- **GitHub**: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **GitHub**: [@armandoalshahab](https://github.com/armandoalshahab)
 
 ---
 

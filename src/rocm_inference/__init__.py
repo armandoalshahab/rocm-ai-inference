@@ -13,7 +13,7 @@ Example:
 """
 
 __version__ = "0.1.0"
-__author__ = "Your Name"
+__author__ = "Armando Al Shahab"
 
 from rocm_inference.engine import InferenceEngine
 from rocm_inference.config import ModelConfig
